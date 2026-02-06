@@ -1,0 +1,5 @@
+requests>=2.20.0
+beautifulsoup4>=4.9.3
+tqdm>=4.50.0
+urllib3>=1.26.0
+# Optional (for env parsing, but a simple loader is included): python-dotenv>=0.19.0

@@ -1,7 +1,7 @@
 {
     "createdTime": "2026-01-28T12:59:33Z",
     "version": "1.0.0+20260128T125933Z",
-    "author": "Pico",
+    "author": "fix_code_set_parser",
     "fixData": [
         {
             "type": "FIX",

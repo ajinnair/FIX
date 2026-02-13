@@ -1,6 +1,6 @@
 # FIX JSON Parser
 
-This repository contains `fix_codesets_scraper.py`, a small scraper that fetches FIX code-sets and their standard values from fiximate.fixtrading.org and writes them to `fix_code_sets.json`.
+This repository contains `fix_codesets_scraper.py`, a small scraper that fetches FIX code-sets and their standard values from http://fiximate.fixtrading.org and writes them to `fix_code_sets.json`.
 
 Contents
 - `fix_codesets_scraper.py` — main script (uses `requests` + `beautifulsoup4`).
